@@ -67,4 +67,6 @@ This project helped me gain practical experience in:
 
 It improved my problem-solving skills and prepared me for real-world front-end development challenges.
 
----
+---  
+output:  
+![Image](https://github.com/user-attachments/assets/91051478-7e2a-4c5b-9c98-a76e211da6f5)  
